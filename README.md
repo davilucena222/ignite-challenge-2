@@ -1,6 +1,6 @@
 # 🎬 Watch Me
 
-An application created by <a target="_blank" href="https://www.rocketseat.com.br">Rocketseat</a> using the JSON Server to simulate a Fake API consuming data from movies and series, like genre, year released, actors and much more.
+An application created by <a target="_blank" href="https://www.rocketseat.com.br">Rocketseat</a> using the JSON Server to simulate a Fake API consuming data from movies and series, like genre, year released, actors and much more. I add more functionalities and did all the componentization of the application to reach out the concepts of React as the challenge ask.
 
 # 🔧 Tecnologies
 - [React JS](https://reactjs.org)
