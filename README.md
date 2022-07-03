@@ -20,6 +20,16 @@ To execute the Watch Me locally follow the steps below:
 # Install the dependencies
 $ yarn
 
-# Start the Watch Me
+# Start the Watche Me 
+$ yarn dev
+
+# Start the Watch Me server Fake API
 $ yarn server
+
+# Access the Watch Me localhost on your browser
+$ http://localhost:8080
+
+# Access the Fake API localhost on your browser
+$ http://localhost:3333/genres
+$ http://localhost:3333/movies
 ```
