@@ -18,7 +18,7 @@ $ cd ignite-challenge-2
 To execute the Watch Me locally follow the steps below:
 ```bash
 # Install the dependencies
-$ yarn
+$ yarn install
 
 # Start the Watche Me 
 $ yarn dev
